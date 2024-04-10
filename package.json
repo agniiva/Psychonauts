@@ -8,7 +8,7 @@
     "react-dom": "^18.2.0",
     "typescript": "^5.4.4"
   },
-  "name": ".Psychonaut-with-lumentis",
+  "name": ".psychonaut",
   "description": "We are talking to a culture, a society called .psychonaut (dot psychonaut) the dot was added because the concept is big, its about  a   smart culture that colives with nature, capitalism, and  can think, by utilising a new way to look at life, either by meditation or self awareness or by consuming plant medicines that help you  live a  fulfilling non rat life.",
   "version": "0.0.1",
   "scripts": {

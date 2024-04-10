@@ -1,5 +1,5 @@
 export default {
-      logo: <span>.Psychonaut (The World Framework) - made with Lumentis</span>,
+      logo: <span>.Psychonaut (The World Framework)</span>,
       editLink: {
         component: null,
       },

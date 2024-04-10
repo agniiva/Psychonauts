@@ -12,9 +12,9 @@ export default {
       footer: {
         text: (
           <>
-            Made with 🫶 by&nbsp;
+            Narrated by&nbsp;
             <a href="psychonauts.in" target="_blank">
-              .Psychonauts (First Ones) - say hi!
+              .Psychonauts
             </a>
           </>
         ),

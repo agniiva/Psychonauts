@@ -1,3 +1,5 @@
+import { Analytics } from '@vercel/analytics/react';
+
 export default {
       logo: <span>.Psychonaut (The World Framework)</span>,
       editLink: {
@@ -12,8 +14,9 @@ export default {
       footer: {
         text: (
           <>
+           <Analytics />
             Narrated by&nbsp;
-            <a href="psychonauts.in" target="_blank">
+            <a href="/" target="_blank">
               .Psychonauts
             </a>
           </>
